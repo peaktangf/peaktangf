@@ -7,7 +7,7 @@ My name is Peak, an iOS software engineer at iBer
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: peaktangf@gmail.com
 - 😄 Pronouns: he/him
-- 🎤 Blog: https://www.peaktan.xyz/
+- 🎤 Blog: https://www.peaktan.xyz
 
 
 ### Github Stats
