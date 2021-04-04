@@ -9,7 +9,7 @@ My name is Peak, an iOS software engineer at iBer
 - 😄 Pronouns: he/him
 - 🎤 Blog: 
     - Netlify: https://peaktangf.netlify.app
-    - Github page: https://peaktangf.github.io/
+    - Github pages: https://peaktangf.github.io/
 - 🎯 jianshu: https://www.jianshu.com/u/8b92322fef08
 
 ### Github Stats
