@@ -2,7 +2,7 @@
 
 My name is Peak, an iOS software engineer at iBer
 
-- 🔭 I’m currently working on [iBer](https://www.iberhk.com/) for iOS and Project Manager
+- 🔭 I’m currently working on 顺丰科技 for Mobile Architecture Group
 - 🌱 I’m currently learning  [Fullter](https://flutter.dev/)
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: peaktangf@gmail.com
